@@ -1,0 +1,6 @@
+{
+  "name": "Smart Livestock Health Monitoring",
+  "description": "Real-time livestock health monitoring, IoT sensor telemetry, disease anomaly detection, and automated farm analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
